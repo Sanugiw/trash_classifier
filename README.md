@@ -1,8 +1,6 @@
 # 🗑️ Smart Trash Classifier 
 *Raspberry Pi-based waste sorting system using TensorFlow Lite*
 
-![Demo GIF](docs/demo.gif) *(Replace with actual demo video/image)*
-
 ## 🌟 Features
 - Real-time trash classification (plastic, paper, metal, glass, etc.)
 - Web interface via Flask
