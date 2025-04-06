@@ -11,7 +11,7 @@
 ## 🛠️ Hardware Requirements
 | Component | Specification |
 |-----------|---------------|
-| Raspberry Pi | 3B+/4/5 |
+| Raspberry Pi | 4 |
 | Camera | Pi Camera v2 or USB webcam |
 | RAM | Minimum 2GB |
 | Storage | 8GB+ SD card |
