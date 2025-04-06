@@ -21,8 +21,8 @@
 ### Installation
 ```bash
 # Clone repo
-git clone https://github.com/your-username/trash-classifier.git
-cd trash-classifier
+git clone https://github.com/sanugiw/trash_classifier.git
+cd trash_classifier
 
 # Create virtual environment
 python3 -m venv venv
